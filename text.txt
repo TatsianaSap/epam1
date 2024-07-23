@@ -4,5 +4,3 @@ more amazing text
 
 adding comments1
 adding comments2
-
-revert comment
